@@ -1,6 +1,6 @@
 #echo "# python" >> README.md
 #git init
 git add *
-git commit -m "33 commit"
+git commit -m "34 commit"
 #git remote add origin https://github.com/wangzhicheng2013/python.git
 git push -u origin master
